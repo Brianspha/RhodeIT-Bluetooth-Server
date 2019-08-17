@@ -7,4 +7,4 @@ to add later
 
 # Systen Architecture
 
-![Alt text](/design documents/1.png?raw=true "Optional Title")
+![Alt text](/design-documents/1.png?raw=true "Optional Title")
