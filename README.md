@@ -5,6 +5,6 @@ A python server whos responsibility is to serve incoming request from the RhodeI
 to add later 
 
 
-# Systen Architecture
+# System Architecture
 
 ![Alt text](/design-documents/1.PNG)
