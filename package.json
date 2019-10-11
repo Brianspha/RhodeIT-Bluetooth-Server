@@ -1,0 +1,27 @@
+{
+  "name": "rhodeit-bluetooth-server",
+  "version": "1.0.0",
+  "description": "A python server whos responsibility is to serve incoming request from the RhodeIT mobile app its responsible for locking and unlocking bicycles when a user rents out a bicycle at a particular docking station it runs on a raspberry PI3 B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brianspha/RhodeIT-Bluetooth-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brianspha/RhodeIT-Bluetooth-Server/issues"
+  },
+  "homepage": "https://github.com/Brianspha/RhodeIT-Bluetooth-Server#readme",
+  "dependencies": {
+    "@hapi/joi": "^15.1.1",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "node-schema-object": "^3.3.4",
+    "rpi-gpio": "^2.1.3"
+  }
+}
