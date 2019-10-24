@@ -7,4 +7,4 @@ to add later
 
 # System Architecture
 - initial plan
-![Alt text](/design-documents/1.png)
+![Alt text](/design-documents/1.jpg)
